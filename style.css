@@ -1,0 +1,299 @@
+@media (min-width: 856px) {
+
+
+.Back{
+    width: 100vw;
+    height: 100vh;
+}
+
+.logo{
+    
+    height: 50px;
+    width: 50px;
+    position: absolute;
+    top: 20px;
+    left: 55px;
+}
+
+.right{
+width: 300px;
+height: 200px;
+position: absolute;
+top: 20px;
+}
+
+.right0{
+    display: flex;
+justify-content: space-between;
+list-style: none;
+position: relative;
+margin-right: -120px;
+}
+
+.right1{
+    position: relative;
+    right: -900px;
+    text-decoration: none;
+    color: white;
+    font-size: 1rem;
+}
+
+.log{
+    width: 20px;
+}
+
+.L{
+    position: absolute;
+    top: 100px;
+    width: 30vw;
+    height: 30vh;
+}
+
+.S{
+    font-size: 6em;
+    color: white;
+    font-weight: bold;
+    position: relative;
+    text-align: center;
+    top: 70px;
+    left: 77px;
+}
+
+p{
+    color: white;
+    left: 108px;
+    position: relative;
+}
+
+.btn{
+  
+    position: relative;
+    left: 106px;
+    top: 20px;
+    border: none;
+    font-size: 1em;
+    font-weight: 600;
+    width: 200px;
+    height: 47px;
+    border-radius: 2vw;
+    background-color: white;
+    color: black;
+}
+
+.R{
+    position: absolute;
+    top: 100px;
+     width: -50vw;
+    height: -50vh; 
+}
+
+.grid{
+    display: grid;
+    grid-template-columns: auto auto;
+    grid-gap: 25px 65px;
+    position: absolute;
+    left: 785px;
+}
+
+.items0{
+    width: 237px;
+    height: 261px;
+    border-radius: 12px;
+    transition-duration: .3s;
+}
+
+.items0:hover{
+    transform: translateY(-5px);
+}
+
+.inside{
+    color: white;
+    left: 798px;
+    top: 4px;
+    position: relative;
+    font-size: 10px;
+}
+
+span{
+   font-size: large;
+}
+
+.inside1{
+    color: white;
+    left: 1101px;
+    top: -73px;
+    position: relative;
+    font-size: 10px;
+}
+
+.inside2{
+    color: white;
+    left: 798px;
+    top: 129px;
+    position: relative;
+    font-size: 10px;
+}
+
+.inside3{
+    color: white;
+    left: 1104px;
+    top: 50px;
+    position: relative;
+    font-size: 10px;
+}
+    
+}
+
+@media (max-width: 856px) {
+
+
+    .Back{
+        width: 856px;
+        height: 661px;
+        height: 85rem;
+        
+
+    }
+  
+    .logo{
+        
+        height: 50px;
+        width: 50px;
+        position: absolute;
+        top: 20px;
+        left: 55px;
+    }
+
+    .right{
+    width: 300px;
+    height: 200px;
+    position: absolute;
+    top: 20px;
+    }
+
+    .right0{
+    display: flex;
+    justify-content: space-between;
+    list-style: none;
+    position: relative;
+    margin-right: -120px;
+    }
+
+    .right1{
+        position: relative;
+        right: -391px;
+        text-decoration: none;
+        color: white;
+        font-size: 1rem;
+    }
+
+    .log{
+        width: 20px;
+    }
+
+    
+    .L{
+        position: absolute;
+        top: 100px;
+        width: 30vw;
+        height: 30vh;
+    }
+
+    .S{
+    font-size: 3em;
+    color: white;
+    font-weight: bold;
+    position: relative;
+    text-align: center;
+    top: -53px;
+    left: 86px;
+    }
+
+    p{
+        color: white;
+    left: 115px;
+    font-size: 11px;
+    top: -95px;
+    position: relative;
+}
+    
+    .btn{
+      
+    position: relative;
+    left: 115px;
+    top: -84px;
+    border: none;
+    font-size: 1em;
+    font-weight: 600;
+    width: 200px;
+    height: 47px;
+    border-radius: 2vw;
+    background-color: white;
+    color: black;
+    }
+
+    .R{
+        position: absolute;
+        top: 100px;
+         width: -50vw;
+        height: -50vh; 
+    }
+
+    .grid{
+    display: grid;
+    grid-template-columns: auto;
+    grid-gap: 25px 65px;
+    position: absolute;
+    top: 171px;
+    left: 234px;
+
+    }
+
+    .items0{
+        width: 465px;
+        height: 251px;
+        border-radius: 12px;
+        transition-duration: .3s;
+    }
+    
+    .items0:hover{
+        transform: translateY(-5px);
+    }
+
+    .inside{
+        color: white;
+        left: 263px;
+        top: 165px;
+        position: relative;
+        font-size: 13px;
+    }
+
+    span{
+       font-size: large;
+    }
+
+    .inside1{
+        color: white;
+        left: 263px;
+        top: 348px;
+        position: relative;
+        font-size: 13px;
+    }
+
+    .inside2{
+    color: white;
+    left: 263px;
+    top: 545px;
+    position: relative;
+    font-size: 13px;
+    }
+
+    .inside3{
+    color: white;
+    left: 263px;
+    top: 725px;
+    position: relative;
+    font-size: 13px;
+    }
+        
+}
